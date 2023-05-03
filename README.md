@@ -45,23 +45,36 @@ Right click the file you want to give authorized user rights to. In this example
 <img src="https://i.imgur.com/lV6ybA0.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Click advanced.
+Select Advanced.
 
  <br/>
 <img src="https://i.imgur.com/pfSTAIR.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Name your virtual switch and press okay. Great, we are finished! Good job!
+Select Details.
  <br/>
-<img src="https://i.imgur.com/gjcMXTu.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/t1GKhqE.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-I hope you enjoyed this demonstration.
+Select Add.
+Select the user you wish to give authorized user rights to and then select OK.
+
+ <br/>
+<img src="https://i.imgur.com/YGDWMNr.png" height="80%" width="80%" alt="DHCP"/>
+<br />
+<br />
+User has been added. Please Ok to close all open prompts. We are finished.
+ <br/>
+<img src="https://i.imgur.com/qOlVafS.png" height="80%" width="80%" alt="DHCP"/>
+<br />
+<br />
+ I hope you enjoyed this demonstration.
  <br/>
 <img src="https://i.imgur.com/pS8SYQI.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-
+ 
+ 
  
 </p>
 
