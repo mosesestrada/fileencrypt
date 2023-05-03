@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/KYCbv8H.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
-<h1>File encryption</h1>
+<h1>Folder Encryption</h1>
 
 
 <h2>Description</h2>
