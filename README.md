@@ -63,7 +63,7 @@ Select the user you wish to give authorized user rights to and then select OK.
 <img src="https://i.imgur.com/YGDWMNr.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-User has been added. Please Ok to close all open prompts. We are finished.
+User has been added. Hit Ok to close all open prompts. We are finished.
  <br/>
 <img src="https://i.imgur.com/qOlVafS.png" height="80%" width="80%" alt="DHCP"/>
 <br />
