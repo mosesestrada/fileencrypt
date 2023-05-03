@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/7qSYnb1.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/KYCbv8H.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>File encryption</h1>
@@ -70,7 +70,7 @@ User has been added. Please Ok to close all open prompts. We are finished.
 <br />
  I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/pS8SYQI.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/uv6M2Pv.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
  
