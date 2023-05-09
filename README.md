@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/tnacqIn.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/KJIYFsd.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Folder Encryption</h1>
