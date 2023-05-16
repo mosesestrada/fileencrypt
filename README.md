@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/JfR2mD5.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/oLAKRzn.jpg" height="80%" width="80%" alt="encrypt logo"/>
 </p>
 
 <h1>Folder Encryption</h1>
@@ -22,55 +22,55 @@ Today's demonstration will show you how to encrypt folders in Windows like a pro
 <br />
 Right-click the folder you wish to encrypt. In this example I will be encrypting the folder "Secret" and then select Properties.
  <br/>
-<img src="https://i.imgur.com/MlxMaIn.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/LzJxETl.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
 Select Advanced.
  <br/>
-<img src="https://i.imgur.com/bQfRzXB.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/bwc0DPv.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
 Select Encrypt contents to secure data and then select OK.
  <br/>
-<img src="https://i.imgur.com/nouP76P.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/L0mN1P8.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
 The lock tells us the file is now encrypted.
 <br/>
-<img src="https://i.imgur.com/UHmcKvO.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/wOGbMxf.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
 Right click the file you want to give authorized user rights to. In this example we will be using the 2019report.xls excel file. Click properties.
  <br/>
-<img src="https://i.imgur.com/lV6ybA0.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/ULKHSbF.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
 Select Advanced.
 
  <br/>
-<img src="https://i.imgur.com/pfSTAIR.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/iLTgAug.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
 Select Details.
  <br/>
-<img src="https://i.imgur.com/t1GKhqE.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/HPnSi1d.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
 Select Add.
 Select the user you wish to give authorized user rights to and then select OK.
 
  <br/>
-<img src="https://i.imgur.com/YGDWMNr.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/y3vSRWf.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
 User has been added. Hit Ok to close all open prompts. We are finished.
  <br/>
-<img src="https://i.imgur.com/qOlVafS.png" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/PcQvYcd.png" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
  I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/sQZViB2.jpg" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/QPcjgZt.jpg" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
  
