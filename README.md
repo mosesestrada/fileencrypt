@@ -70,7 +70,7 @@ User has been added. Hit Ok to close all open prompts. We are finished.
 <br />
  I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/QPcjgZt.jpg" height="80%" width="80%" alt="encrypt"/>
+<img src="https://i.imgur.com/ULu3Kf7.jpg" height="80%" width="80%" alt="encrypt"/>
 <br />
 <br />
  
